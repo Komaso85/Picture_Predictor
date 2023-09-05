@@ -1,0 +1,13 @@
+transformers
+tqdm
+Pillow
+numpy
+pandas
+torch
+boto3
+sentence_transformers
+regex
+tensorflow
+random2
+nltk
+matplotlib
